@@ -8,12 +8,13 @@ Description: Our web application will help people find cities that fit their liv
 Description of target browsers: Our web application is intended for iOS and Andriod users. Google chrome is available for users using iOS and Andriod. There the users will be able to interact with our web application.
 
 Link to User Manual:
+
 Link to Developer Manual:
 
 Developer Manual:
-Before you begin, make sure the following has been installed 
--Node.js
--npm
+Before you begin, make sure the following has been installed:
+-Node.js,
+-npm,
 -Git
 
 How to run the application on a server:
